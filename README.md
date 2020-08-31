@@ -3,6 +3,11 @@
 Laguages:
 
 <div style='display: inline margin: 20px'>
+  <img height="30" width="30" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+  <img height="30" width="30" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+  <img height="30" width="30" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+
+
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='30' />
