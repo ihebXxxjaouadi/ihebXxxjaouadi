@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th><h4>languages</h4></th>
+    <th style='color: lightgrey;'>languages</th>
     <th>Frontend frameworks, library, compiler</th> 
     <th>mobile app devolopement frameworks</th>
     <th>Backend frameworks</th>
