@@ -1,12 +1,11 @@
-<h1 align='center' >Hi 👋,I'm Iheb </h1>
+<h1 align='center' >Hi there i'm iheb welcome to my github profile 👋</h1>
 
-<div align='center'>
-  <p>i'm currently working on MERN-CLI</p>
+i'm currently working on MERN-CLI
 <p>
   always i'd rather to styling my websites without using any framework, just i want to be creative with 
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='18' /> ❤️️😘😘 .
 </p2>
-</div>
+
 <hr>
 
 <table>
@@ -19,8 +18,8 @@
   <th>prepeocessor, temlate engine</th>
   <th>tools</th>
   <th>editor </th>
-  </tr>
-  <td>
+  </tr align='center'>
+  <td >
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='30' />
