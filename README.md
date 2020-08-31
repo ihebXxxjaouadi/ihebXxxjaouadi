@@ -1,7 +1,5 @@
 ### Hi there i'm iheb welcome to my github profile 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-car"></i>
 Laguages:
 
 <div style='display: inline margin: 20px'>
@@ -54,6 +52,6 @@ prepeocessor, temlate engine:
 tools:
 <div style='display: inline margin: 20px'>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' width='30' />
-  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png' width='30' /> 
-  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png' width='30' />
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png' width='30' /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/#181717.svg" />
+
 </div>
