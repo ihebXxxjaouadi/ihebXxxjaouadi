@@ -3,7 +3,7 @@
 Laguages:
 
 <div style='display: inline margin: 20px'>
-  <img height="30" width="30" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+  <img height="30" width="30" style="color='#E34F26'" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
   <img height="30" width="30" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
   <img height="30" width="30" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 
