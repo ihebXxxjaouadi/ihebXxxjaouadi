@@ -17,8 +17,9 @@ Frontend frameworks, library, compiler:
 <div style='display: inline margin: 20px'>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png' width='30' />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuetify.svg" />	
+  <img alt="Vuetify Logo" width="30" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
   <img width='30' src="https://sveltejs.github.io/assets/banner.png">
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/bootstrap.png' width='30' />
 
 </div>
 
