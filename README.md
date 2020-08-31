@@ -53,7 +53,7 @@ prepeocessor, temlate engine:
 tools:
 <div style='display: inline margin: 20px'>  
   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img height="30" width="30" stroke="#ff0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png' width='30' /> 
 </div>
 
