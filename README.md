@@ -1,4 +1,4 @@
-<h1 align='center' >Hi there i'm iheb welcome to my github profile 👋</h1>
+<h1 align='center' >Hi 👋, I'm Iheb</h1>
 
 <div align='center' >
   <p>i'm currently working on MERN-CLI</p>
