@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<table style="width:100%; background: none; border-color: grey;">
+<table>
   <tr>
     <th>languages</th>
     <th>Frontend frameworks, library, compiler</th> 
