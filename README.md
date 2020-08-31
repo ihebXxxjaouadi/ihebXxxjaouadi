@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<table style="width:100%">
+<table style="width:100%; background: none; border-color: grey;">
   <tr>
     <th>languages</th>
     <th>Frontend frameworks, library, compiler</th> 
@@ -14,7 +14,7 @@
     <th>tools</th>
     <th>editor </th>
   </tr>
-  <td style='display: inline margin: 20px'>
+  <td>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='30' />
