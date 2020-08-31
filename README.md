@@ -10,14 +10,14 @@ i'm currently working on MERN-CLI
 
 <table>
   <tr>
-  <th>languages</th>
-  <th>Frontend frameworks, library, compiler</th> 
-  <th>mobile app devolopement frameworks</th>
-  <th>Backend frameworks</th>
-  <th>database</th>
-  <th>prepeocessor, temlate engine</th>
-  <th>tools</th>
-  <th>editor </th>
+  <th>Languages</th>
+  <th>Frontend Framework, Library, Compiler</th> 
+  <th>Mobile App Devolopement frameworks</th>
+  <th>Backend Frameworks</th>
+  <th>Sql, Nosql</th>
+  <th>pre-peocessor, template-engine</th>
+  <th>Tools</th>
+  <th>Editors</th>
   </tr>
   <td align='center'>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='30' />
