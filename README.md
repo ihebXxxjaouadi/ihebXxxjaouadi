@@ -1,24 +1,23 @@
 ### Hi there i'm iheb welcome to my github profile 👋
 
 i'm currently working on MERN-CLI
-<p>always i'd rather to styling my websites without using any framework, just i want to be creative with 
-  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='18' /> ❤️️😘😘 . </p2>
-<hr>
+<p>
+  always i'd rather to styling my websites without using any framework, just i want to be creative with 
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='18' /> ❤️️😘😘 .
+</p2>
 
-<!DOCTYPE html>
-<html>
-<body>
+<hr>
 
 <table>
   <tr>
-    <th>languages</th>
-    <th>Frontend frameworks, library, compiler</th> 
-    <th>mobile app devolopement frameworks</th>
-    <th>Backend frameworks</th>
-    <th>database</th>
-    <th>prepeocessor, temlate engine</th>
-    <th>tools</th>
-    <th>editor </th>
+  <th>languages</th>
+  <th>Frontend frameworks, library, compiler</th> 
+  <th>mobile app devolopement frameworks</th>
+  <th>Backend frameworks</th>
+  <th>database</th>
+  <th>prepeocessor, temlate engine</th>
+  <th>tools</th>
+  <th>editor </th>
   </tr>
   <td>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='30' />
@@ -76,5 +75,3 @@ i'm currently working on MERN-CLI
   </tr>
 </table>
 
-</body>
-</html>
