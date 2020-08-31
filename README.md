@@ -60,7 +60,7 @@ tools:
 editor: 
 
 <div style='display: inline margin: 20px'>  
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vscode.svg" />
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
 </div>
