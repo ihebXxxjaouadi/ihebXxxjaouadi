@@ -1,10 +1,12 @@
 <h1 align='center' >Hi there i'm iheb welcome to my github profile 👋</h1>
 
-i'm currently working on MERN-CLI
-<p>
-  always i'd rather to styling my websites without using any framework, just i want to be creative with 
-  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='18' /> ❤️️😘😘 .
-</p2>
+<div align='center' >
+  <p>i'm currently working on MERN-CLI</p>
+  <p>
+    always i'd rather to styling my websites without using any framework, just i want to be creative with 
+    <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='18' /> ❤️️😘😘 .
+  </p2>
+</div>
 
 <hr>
 
