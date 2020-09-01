@@ -1,6 +1,8 @@
 <h1 align='center' >Hi 👋, I'm Iheb</h1>
 
 <div align='center' >
+  <p>connect with me</p>
+  <a><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
   <p>i'm currently working on MERN-CLI</p>
   <p>
     always i'd rather to design my websites without using any framework, just i want to be creative with 
