@@ -3,7 +3,7 @@
 <div align='center' >
   <p>i'm currently working on MERN-CLI</p>
   <p>
-    always i'd rather to styling my websites without using any framework, just i want to be creative with 
+    always i'd rather to design my websites without using any framework, just i want to be creative with 
     <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='18' /> ❤️️😘😘 .
   </p2>
 </div>
@@ -51,7 +51,7 @@
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' width='35' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png' width='30' />
-  axios
+  ,axios , socket.io
 
   </td>
   <td align='center'>
