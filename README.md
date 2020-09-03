@@ -19,7 +19,9 @@
   <th>Languages</th>
   <th>Frontend Framework, Library, Compiler</th> 
   <th>Mobile App Devolopement frameworks</th>
-  <th>Desktop App Devolopement frameworks</th>
+  <th>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/srip" title="srip">srip</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>+         </div>
+</th>
   <th>Backend Frameworks, library</th>
   <th>Sql, Nosql</th>
   <th>pre-peocessor, template-engine</th>
