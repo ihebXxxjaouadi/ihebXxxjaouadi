@@ -19,6 +19,7 @@
   <th>Languages</th>
   <th>Frontend Framework, Library, Compiler</th> 
   <th>Mobile App Devolopement frameworks</th>
+  <th>Desktop App Devolopement frameworks</th>
   <th>Backend Frameworks, library</th>
   <th>Sql, Nosql</th>
   <th>pre-peocessor, template-engine</th>
@@ -41,9 +42,16 @@
     ,vuex ,
   <img alt="Vuetify Logo" width="30" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" />
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png' width='30' />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png' width='30' />
-  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png' width='30' />
   </td>
+  
+  <td align='center'>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png' width='30' />
+  , tkinter, swing
+  </td>
+  <td align='center'>
+  
   <td align='center'>
   
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png' width='35' />
