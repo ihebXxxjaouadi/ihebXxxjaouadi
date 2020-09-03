@@ -19,7 +19,7 @@
   <th>Languages</th>
   <th>Frontend Framework, Library, Compiler</th> 
   <th>Mobile App Devolopement frameworks</th>
-  <th> </th>
+  <th>Desktop App Devolopement frameworks</th>
   <th>Backend Frameworks, library</th>
   <th>Sql, Nosql</th>
   <th>pre-peocessor, template-engine</th>
