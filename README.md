@@ -5,6 +5,7 @@
   <a href='https://simpleicons.org/?q=linked'><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href='https://dev.to/ihebxxxjaouadi'><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /></a>
   <a href='https://discord.com/channels/Ih%C2%B0_-%C3%A9b#2325'><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+  <a href='https://codepen.io/ihebxxxjaouadi/'><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
   <p>i'm currently working on MERN-CLI</p>
   <p>
     always i'd rather to design my websites without using any framework, just i want to be creative with 
