@@ -24,6 +24,7 @@
   <th>Backend Frameworks, library</th>
   <th>Sql, Nosql</th>
   <th>pre-peocessor, template-engine</th>
+  <th>Web Design</th>
   <th>Tools</th>
   <th>Editors</th>
   </tr>
@@ -77,6 +78,12 @@
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' width='30' />
   <img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" width="30">
   </td>
+  
+  <td align='center'>
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/photoshop.svg" />
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" /> 
+  </td>
+  
   <td align='center'>
   
   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
