@@ -1,5 +1,7 @@
-<h1 align='center' >Hi 👋, I'm Iheb</h1>
-<img align='center' src='logo/my-logo.png' width='250' />
+<div align='center'>
+<h1>Hi 👋, I'm Iheb</h1>
+<img src='logo/my-logo.png' width='150' />
+</div>
 <div align='center' >
   <p>connect with me</p>
   <a href='https://codepen.io/ihebxxxjaouadi/'><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" /></a>
