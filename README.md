@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>Hi 👋, I'm Iheb</h1>
-<img src='logo/my-logo.png' width='150' />
+<img src='logo/my-logo.png' width='100' />
 </div>
 <div align='center' >
   <p>connect with me</p>
