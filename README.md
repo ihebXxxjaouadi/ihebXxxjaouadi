@@ -8,7 +8,7 @@
   <a href='https://simpleicons.org/?q=linked'><img height="20" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href='https://dev.to/ihebxxxjaouadi'><img height="25" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /></a>
   <a href='https://discord.com/channels/Ih%C2%B0_-%C3%A9b#2325'><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-  <p>i'm currently working on MERN-CLI FRELANCER</p>
+  <p>i'm currently working on MERN-CLI, FRELANCER</p>
   <p>ALL MY PROJECTS REPOSITORY ARE PRIVATE </p>
   <p>I really like to be aware of the latest technology <p/>
   <p>
