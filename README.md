@@ -46,7 +46,7 @@
   <img src='https://camo.githubusercontent.com/4683d18a4a9f845dd7de377a6915dcfc9739a661/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667' width='35' />
   <img src='https://camo.githubusercontent.com/20737d912fcf58649abab361a8ac2f2bb488cd77/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f7675656a732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667' width='32' />
     ,vuex ,
-  <img alt="Vuetify Logo" width="30" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
+  <img alt="Vuetify Logo" width="30" src="https://cdn.vuetifyjs.com/images/logos/logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png">
   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" />
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png' width='30' />
   , jquery
